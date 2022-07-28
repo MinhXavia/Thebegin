@@ -1,3 +1,7 @@
+# If you see any line wrong, please give me your opinion. Thank you.
+
+# Date start: 7/27/2022
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
