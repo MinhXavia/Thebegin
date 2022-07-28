@@ -1,5 +1,8 @@
 # If you see any line wrong, please give me your opinion. Thank you.
 
+# My infor: 
+https://bio.link/leminhthu
+
 # Date start: 7/27/2022
 
 # Getting Started with Create React App
