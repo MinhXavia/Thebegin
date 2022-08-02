@@ -1,0 +1,62 @@
+
+<style>
+    .subcribe {
+        background-color: #cc0000;
+        color: white;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 4px;
+        cursor: pointer;    /*con tro chuout*/
+        margin-right: 5px;
+        transition: opacity 0.15s;
+    }
+    .subcribe:hover {
+        opacity: 0.8;   /*do mo nhat: 1-binh thuong -> 0*/
+    }
+    .subcribe:active{
+        opacity: 0.5;
+    }
+
+    .join {
+        background-color: white;
+        color:#065fd4;
+        border-color: #065fd4;
+        border-style: solid;
+        border-width: 1.5px;
+        padding: 9px 15px;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-right: 5px;
+        transition: background-color 0.15s, color 0.15s;
+    }
+    .join:hover {
+        background-color: #065fd4;
+        color: white;
+    }
+    .join:active{
+        opacity: 0.8;
+    }
+
+    .tweet {
+        background-color: #1d9bf0;
+        color: white;
+        border: none;
+        padding: 7px 16px;
+        border-radius: 18px;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        transition: box-shadow 0.15s;
+    }
+    .tweet:hover {
+        box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.15);    /*right down blur*/
+    }
+    .tweet:active{
+        opacity: 0.8;
+    }
+
+</style>
+
+<button class="subcribe">SUBSCRIBE</button> 
+<button class="join">JOIN</button>
+<button class="tweet">Tweet</button>

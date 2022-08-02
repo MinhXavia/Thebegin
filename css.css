@@ -1,0 +1,45 @@
+
+h1 {
+    color: darkblue;
+    border: 1px solid green; /*vien*/
+    background: #00eeff;
+    font-size: 1.5rem;
+}
+#top {
+    text-align: center;      
+}
+.wrapper {
+    text-align: left;
+}
+
+html {
+    background-image: url(https://www.sangia.vn/uploads/Image/2020/12/29/Nh%E1%BB%AFng%20c%C3%A2u%20n%C3%B3i%20trong%20Anime.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+}
+
+h2 {
+    /*font-size:200  //do dam, nhat*/
+    font-style: italic;
+    font-family: Arial;             /*or font-family: 'Arial'*/
+    text-align: center;
+    text-transform: capitalize;     /*viet hoa, thuong*/
+    text-decoration: underline;     /*                */
+}
+
+div {
+    border: 1px solid red;
+}
+
+#main {
+ /* margin-top: 10px;
+    margin-bottom: 10; */
+    margin: 10 2 20 1;  /*top right bottom left*/
+    padding: 10 20 0 7;
+    width: 600;
+    height: 300;
+    overflow: scroll;
+}
+
+
